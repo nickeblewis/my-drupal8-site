@@ -17,10 +17,10 @@ features:
    name: true
    node_user_picture: true
    slogan: true
-facebook_url: 'https://www.facebook.com/zymphonies'
-twitter_url: 'https://twitter.com/zymphonies'
+facebook_url: 'https://www.facebook.com/nicklewisdigital'
+twitter_url: 'https://twitter.com/nicklewis'
 linkedin_url: 'http://www.linkedin.com/company/zymphonies'
-instagram_url: 'https://www.instagram.com/'
+instagram_url: 'https://www.instagram.com/nicklewisphotography'
 rss_url: 'rss.xml'
 
 # Toggle Social Media, Credit Link and Slideshow
@@ -33,6 +33,6 @@ show_slideshow: 1
 
 #Slider Default Images & Description
 slide_title_1: 'The Easiest Way to Get suitable Property'
-slide_description_1: 'Find Flats, Apartments & Real Estate' 
+slide_description_1: 'Find Flats, Apartments & Real Estate'
 slide_url_1: '#'
 slide_image_path_1: '/images/slider/slide_01.jpg'
